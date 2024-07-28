@@ -40,8 +40,8 @@ The program will start sending HTTP POST requests every 30 seconds.
 
 ## Запуск / Running
 
-Для работы программы нужно просто запустить скомпилированный файл `requestscheduler.exe`.
+Для работы программы нужно просто запустить скомпилированный файл `HamsterHack.exe`.
 
-To run the program, simply execute the compiled file `requestscheduler.exe`.
+To run the program, simply execute the compiled file `HamsterHack.exe`.
 
 
